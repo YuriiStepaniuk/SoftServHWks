@@ -1,0 +1,15 @@
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.csproj.AssemblyReference.cache
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfoInputs.cache
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.AssemblyInfo.cs
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.csproj.CoreCompileInputs.cache
+C:\Users\stepa\source\repos\HW_3\bin\Debug\net6.0\HW_3.exe
+C:\Users\stepa\source\repos\HW_3\bin\Debug\net6.0\HW_3.deps.json
+C:\Users\stepa\source\repos\HW_3\bin\Debug\net6.0\HW_3.runtimeconfig.json
+C:\Users\stepa\source\repos\HW_3\bin\Debug\net6.0\HW_3.dll
+C:\Users\stepa\source\repos\HW_3\bin\Debug\net6.0\HW_3.pdb
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.dll
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\refint\HW_3.dll
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.pdb
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\HW_3.genruntimeconfig.cache
+C:\Users\stepa\source\repos\HW_3\obj\Debug\net6.0\ref\HW_3.dll
